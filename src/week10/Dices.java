@@ -32,5 +32,6 @@ public class Dices {
        Week10.Process(diceNumber);
     }
     
+    // Please ask the group to avoid static for now.
     
 }
